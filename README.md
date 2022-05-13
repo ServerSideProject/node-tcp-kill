@@ -10,4 +10,7 @@ byte - sends many bytes to a port (best)
 big - sends many long data to a port
 
 
-Usage: node tcp_kill.js <method> <ip:port> <time>
+Usage: "node tcp_kill.js method ip:port time"
+
+  
+  
